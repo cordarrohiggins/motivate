@@ -1,0 +1,17 @@
+# GameMaker Studio 2 build outputs & temp files
+/Build/
+/cache/
+/temp/
+/install/
+/output/
+/resources/platforms/
+/*.yyz
+/*.yyp.lock
+
+# Optional editor/IDE files
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
