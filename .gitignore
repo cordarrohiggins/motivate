@@ -57,3 +57,15 @@ Temporary Items
 # GameMaker temporary files
 *.resource_order
 *.old
+
+# GameMaker Studio 2 build artifacts & caches
+/build/
+/Build/
+/cache/
+/install/
+/extensions/
+/temp/
+/logs/
+
+/*.yyz             # source export packages
+/*.yyp.lock        # lock file
