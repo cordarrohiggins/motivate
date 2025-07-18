@@ -12,17 +12,28 @@ Motivate is a top-down shooter where you guide a little gun wielding wizard thro
 
 # Repository Structure
 ├── fonts/ # Font assets
+
 ├── objects/ # GML object definitions
 ├── options/ # Configuration files
+
 ├── rooms/ # Room definitions
+
 ├── scripts/ # GML script files
+
 ├── sounds/ # Audio assets
+
 ├── sprites/ # Image assets
+
 ├── tilesets/ # Tileset graphics
+
 ├── .gitattributes # Git attributes
+
 ├── .gitignore # Excludes build artifacts & caches
+
 ├── LICENSE # License terms
+
 ├── Motivate.yyp # GameMaker Studio 2 project file
+
 └── README.md # This file
 
 # Building & Releases
