@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndPlayerDeath",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.1040136,
+  "name":"sndPlayerDeath",
+  "parent":{
+    "name":"Sound Files",
+    "path":"folders/Audio/Sound Files.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndPlayerDeath.mp3",
+  "type":0,
+  "volume":1.0,
+}

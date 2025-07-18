@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sngSnowArea",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":320,
+  "compression":0,
+  "conversionMode":0,
+  "duration":159.3902,
+  "name":"sngSnowArea",
+  "parent":{
+    "name":"Music Tracks",
+    "path":"folders/Audio/Music Tracks.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sngSnowArea.ogg",
+  "type":1,
+  "volume":0.5,
+}
